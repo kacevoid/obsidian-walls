@@ -10,6 +10,9 @@ Some basic lo-fi and dark wallpapers compatible with my Obsidian setup, usable w
 # pack-01:VHSOne
 The **First Pack** contains *dark* and *Lo-Fi* and *low-contrast* composition book cover stylings, as well as some classic print grunge patterns, to keep out of the way of higher contrast text while still giving a textural exzperience in your software. These Backgrounds match my **VHSOne** theme I'll be releasing soon for Obsidian, Vivaldi, and other apps I use.
 
+# Banners
+Just some banners, mostly sourced from pexels, I'm using in LegSeq plugins for customization.
+
 If you wan't to match the wallpaper's colors, they center around #131313 and #232323
 
 All resolutions in **pack-01** are *1920 x 2160*
